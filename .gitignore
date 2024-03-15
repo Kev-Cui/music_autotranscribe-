@@ -3,6 +3,8 @@ piano_mp3/
 mxl/
 Plan.txt
 *.pkl
+*.mp3
+*.mid
 
 
 
