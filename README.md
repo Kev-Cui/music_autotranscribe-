@@ -1,4 +1,3 @@
-### Ironhack DA Jan 2024 Final Project
 # Musescribe - Audio to MIDI transcriber
 
 A data pipeline that takes a mp3 file as input and gives a midi file recording sequence of notes corroponding to the input audio.
